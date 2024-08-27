@@ -1,0 +1,36 @@
+{
+  "name": "fsd61wde",
+  "version": "1.0.0",
+  "description": "It is a backend repo for the course FSD61WDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikeyan1028/Node.js.git"
+  },
+  "keywords": [
+    "backend",
+    "nodeJS",
+    "expressJS",
+    "mongoDB",
+    "postMan",
+    "VSCodeIDE",
+    "Axios",
+    "body-parser",
+    "cookie-parser",
+    "morgan",
+    "env",
+    "jsonwebtoken",
+    "middleware",
+    "logger"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthikeyan1028/Node.js/issues"
+  },
+  "homepage": "https://github.com/Karthikeyan1028/Node.js#readme"
+}
