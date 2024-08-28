@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":" node index.js"
+    "start": " node index.js"
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,11 @@
   "bugs": {
     "url": "https://github.com/Karthikeyan1028/Node.js/issues"
   },
-  "homepage": "https://github.com/Karthikeyan1028/Node.js#readme"
+  "homepage": "https://github.com/Karthikeyan1028/Node.js#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
